@@ -7,7 +7,7 @@ class DataExtractor:
     def __init__(self):
         self.pd_table = None
         self.card_details_table = None
-        self.key = {'x-api-key':'yFBQbwXe9J3sd6zWVAMrK6lcxxr0q1lr2PT6DDMX'}
+        self.key = {} #removed details to a seperate file. currently recoded into 'extract_list_of_stores.py'
         self.number_of_stores_api_endpoint = "https://aqj7u5id95.execute-api.eu-west-1.amazonaws.com/prod/number_stores"
         self.stores_data_endpoint = "https://aqj7u5id95.execute-api.eu-west-1.amazonaws.com/prod/store_details/"
         self.number_of_stores = None
