@@ -1,0 +1,8 @@
+{
+    "1" : "dim_card_details",
+    "2" : "dim_date_times",
+    "3" : "dim_users",
+    "4" : "dim_store_details",
+    "5" : "dim_products",
+    "6" : "orders_table",
+    "0" : "All of above"}
