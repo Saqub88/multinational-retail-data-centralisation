@@ -24,4 +24,4 @@ For PGadmin just need to run each sql file against database but may need to run 
 
 ## Milestone 4.
 
-The sql files are found in the 'sql_files/Milestone 4' folder. The final task gave the most difficulty as I was unable to get the exact figures as shown on the portal webpage. Upon speaking to one of the engineers, it appears that the dispcrepancies may be related to how the data may have been cleaned. These should work for both SQLite and PostgreSQL with the exception of the final task. 
+The sql files are found in the 'sql_files/Milestone 4' folder. The final task gave the most difficulty as I was unable to get the exact figures as shown on the portal webpage. Upon speaking to one of the engineers, it appears that the dispcrepancies may be related to how the data may have been cleaned. These should work for both SQLite and PostgreSQL with the exception of the final task.
